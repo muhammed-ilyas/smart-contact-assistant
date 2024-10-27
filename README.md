@@ -27,8 +27,8 @@ This project is a Java-based application that extracts phone numbers and email a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/contact-info-extractor.git
-   cd contact-info-extractor
+   git clone https://github.com/muhammed-ilyas/smart-contact-assistant.git
+   cd smart-contact-assistant
 2. Add your OpenAI API key in the application.properties file:
    openai.api.key=your_openai_api_key
 3. Build the project: mvn clean install
